@@ -1,0 +1,33 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Motorclubclients
+layout_spectrum: 0.4855971240904182
+typography_spectrum: 0.34368502837605774
+color:
+  brandStrength: 0.5705227216240019
+  lightness: 0.4054328906349838
+  saturation: 0.9881981662474573
+  rhythmicContrast: 0.17178201652131975
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+content: []
+title: MOTORCLUBCLIENTS
+description: >-
+  Owning a motor vehicle can be quite unpredictable at times. That's where our
+  services come in handy. We provide you with peace of mind to travel anywhere
+  in the U.S. or Canada and know that you are covered for any roadside emergency
+  that you may have. The biggest difference between MCA and many other leading
+  roadside assistance companies is that we offer unlimited service requests and
+  our benefits travel with the subscriber. Traveling with a friend and their car
+  breaks down? As a valued Motor Club member, we've got you covered. Just got
+  back on the road and it broke down again? No problem!
+github: true
