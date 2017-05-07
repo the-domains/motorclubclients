@@ -4,9 +4,9 @@
         <description><![CDATA[MOTORCLUBCLIENTS]]></description>
         <link>https://thegrid.ai/motorclubclients/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 May 2017 00:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2017 00:10:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motorclubclients/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 May 2017 00:10:31 GMT</pubDate>
+        <pubDate>Sun, 07 May 2017 00:10:55 GMT</pubDate>
         <item>
             <title><![CDATA[MCA Services]]></title>
             <description><![CDATA[<article><h1>MCA Services</h1><p>Motor Club of America&apos;s roadside assistance program is the most used of any of our products. Travel near or far with peace of mind that our dependable service providers are just a phone call away.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/fixflat.jpg"></article>]]></description>
@@ -34,13 +34,6 @@
             <link>https://motorclubofamerica.com/checkout/start?productId=9137&amp;sid=13388011</link>
             <guid isPermaLink="false">bbb7f7e8-eb99-4c0e-a675-9b2372821ba1</guid>
             <pubDate>Sat, 06 May 2017 19:09:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>We love to listen and we are eagerly waiting to talk to you regarding your project. Get in touch with us if you have any queries and we will get back to you as soon as possible.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/mcalogo.png"></article>]]></description>
-            <link>https://motorclubcompany.com/mca/contact.php?id=360marketing</link>
-            <guid isPermaLink="false">182be5ed-727c-4fd3-b744-6fd816382954</guid>
-            <pubDate>Sun, 07 May 2017 00:09:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[FAQ]]></title>
@@ -76,6 +69,13 @@
             <link>https://www.dailyincomemethod.com/vsl/?referid=360marketing</link>
             <guid isPermaLink="false">b7057f84-8377-4fd6-8f45-d276190c1213</guid>
             <pubDate>Sun, 07 May 2017 00:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>We love to listen and we are eagerly waiting to talk to you regarding your project. Get in touch with us if you have any queries and we will get back to you as soon as possible.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/mcalogo.png"></article>]]></description>
+            <link>https://motorclubcompany.com/mca/contact.php?id=360marketing</link>
+            <guid isPermaLink="false">182be5ed-727c-4fd3-b744-6fd816382954</guid>
+            <pubDate>Sun, 07 May 2017 00:09:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
