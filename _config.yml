@@ -1,3 +1,16 @@
+layout_spectrum: 0.10449271929809953
+typography_spectrum: 0.14974920710161477
+color:
+  brandStrength: 0.5775347865170956
+  lightness: 0.05631227400522716
+  saturation: 0.9843111748089737
+  rhythmicContrast: 0.2887878998797756
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Motorclubclients
-layout_spectrum: 0.4855971240904182
-typography_spectrum: 0.34368502837605774
-color:
-  brandStrength: 0.5705227216240019
-  lightness: 0.4054328906349838
-  saturation: 0.9881981662474573
-  rhythmicContrast: 0.17178201652131975
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
 content: []
 title: MOTORCLUBCLIENTS
 description: >-
