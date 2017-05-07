@@ -13,13 +13,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.dailyincomemethod.com/vsl/?referid=360marketing'
 title: Click Here - Watch The Free Video!
-datePublished: '2017-05-07T00:05:53.606Z'
-dateModified: '2017-05-07T00:05:01.130Z'
-datePublishedOriginal: '2017-05-07T00:05:53.606Z'
+datePublished: '2017-05-07T00:10:26.799Z'
+dateModified: '2017-05-07T00:10:26.253Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-05-07-click-here-watch-the-free-video.md
+starred: false
+datePublishedOriginal: '2017-05-07T00:05:53.606Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
