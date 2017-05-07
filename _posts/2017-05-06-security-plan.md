@@ -15,8 +15,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://motorclubcompany.com/mca/security.php?id=360marketing'
 title: Security Plan
-datePublished: '2017-05-07T00:10:51.943Z'
-dateModified: '2017-05-07T00:10:50.727Z'
+datePublished: '2017-05-07T01:29:30.171Z'
+dateModified: '2017-05-07T01:29:29.356Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-06-security-plan.md
