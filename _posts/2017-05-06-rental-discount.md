@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://motorclubcompany.com/mca/rental.php?id=360marketing'
 title: Rental Discount
-datePublished: '2017-05-07T00:10:26.822Z'
-dateModified: '2017-05-07T00:10:26.253Z'
+datePublished: '2017-05-07T00:10:51.874Z'
+dateModified: '2017-05-07T00:10:50.727Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-05-06-rental-discount.md
