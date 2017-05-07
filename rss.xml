@@ -4,9 +4,9 @@
         <description><![CDATA[MOTORCLUBCLIENTS]]></description>
         <link>https://thegrid.ai/motorclubclients/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 May 2017 01:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2017 01:29:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/motorclubclients/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 May 2017 01:29:12 GMT</pubDate>
+        <pubDate>Sun, 07 May 2017 01:29:33 GMT</pubDate>
         <item>
             <title><![CDATA[MCA Services]]></title>
             <description><![CDATA[<article><h1>MCA Services</h1><p>Motor Club of America&apos;s roadside assistance program is the most used of any of our products. Travel near or far with peace of mind that our dependable service providers are just a phone call away.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/fixflat.jpg"></article>]]></description>
@@ -36,13 +36,6 @@
             <pubDate>Sat, 06 May 2017 19:09:12 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[FAQ]]></title>
-            <description><![CDATA[<article><h1>FAQ</h1><p>Security Members and Security Plus Members will have their vehicle towed to the nearest servicing facility or can choose to have their preferred garage tow the vehicle to their own service station with reimbursement from MCA of up to $100. Total Security Members can take advantage of our &quot;sign and go&quot; service which covers reasonable roadside repairs.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/mcalogo.png"></article>]]></description>
-            <link>https://motorclubcompany.com/mca/faq.php?id=360marketing</link>
-            <guid isPermaLink="false">952570e7-e9f2-46af-b678-fce47d1acee8</guid>
-            <pubDate>Sun, 07 May 2017 00:10:05 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Careers]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1b9083a7622e4f6dec7e8dcd5caedd1d/noop.jpg?input=https%3A%2F%2Fstatic-pixelperfectphot1.netdna-ssl.com%2Fimages%2Fcompme.jpg"><h1>Careers</h1><p>For a detailed look at our compensation plan, please view our infographics. Motor Club of America&apos;s affiliate compensation plan is easy to understand and to explain to others. You&apos;ll enjoy the many ways we pay our associates for their hard work and dedication.</p></article>]]></description>
             <link>https://motorclubcompany.com/mca/entrepreneur.php?id=360marketing</link>
@@ -62,6 +55,13 @@
             <link>https://motorclubcompany.com/mca/contact.php?id=360marketing</link>
             <guid isPermaLink="false">182be5ed-727c-4fd3-b744-6fd816382954</guid>
             <pubDate>Sun, 07 May 2017 00:09:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FAQ]]></title>
+            <description><![CDATA[<article><h1>FAQ</h1><p>Security Members and Security Plus Members will have their vehicle towed to the nearest servicing facility or can choose to have their preferred garage tow the vehicle to their own service station with reimbursement from MCA of up to $100. Total Security Members can take advantage of our &quot;sign and go&quot; service which covers reasonable roadside repairs.</p><img src="https://static-pixelperfectphot1.netdna-ssl.com/images/mcalogo.png"></article>]]></description>
+            <link>https://motorclubcompany.com/mca/faq.php?id=360marketing</link>
+            <guid isPermaLink="false">952570e7-e9f2-46af-b678-fce47d1acee8</guid>
+            <pubDate>Sun, 07 May 2017 00:10:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
