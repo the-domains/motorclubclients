@@ -1,25 +1,27 @@
-layout_spectrum: 0.10449271929809953
-typography_spectrum: 0.14974920710161477
+layout_spectrum: 0.3634735267958834
+typography_spectrum: 0.28039843565295686
 color:
-  brandStrength: 0.5775347865170956
-  lightness: 0.05631227400522716
-  saturation: 0.9843111748089737
-  rhythmicContrast: 0.2887878998797756
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
+  brandStrength: 0.993539426362898
+  lightness: 0.0566908944817721
+  saturation: 0.9873542015253576
+  rhythmicContrast: 0.28568484007565326
 name: Motorclubclients
-content: []
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3695e24-1abf-4fa2-93d4-7dcb68edc87c.png
+analytics:
+  facebook: '178183022671750'
+  google: UA-99061108-1
+opengraph:
+  type: ''
+  appId: '1639344003029899'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/24be8a36-a068-4d86-b5b8-c9ef0263fb2b.jpg
 title: MOTORCLUBCLIENTS
 description: >-
   Owning a motor vehicle can be quite unpredictable at times. That's where our
@@ -30,4 +32,11 @@ description: >-
   our benefits travel with the subscriber. Traveling with a friend and their car
   breaks down? As a valued Motor Club member, we've got you covered. Just got
   back on the road and it broke down again? No problem!
+author:
+  name: MotorClubClients
+  url: 'http://motorclubclients.com/'
+  email: MotorClubClients@gmail.com
+content_rating:
+  adult: false
+content: []
 github: true
